@@ -1,0 +1,32 @@
+user@host> file show /var/log/processes Feb 22 08:58:24 router1 snmpd[359]:
+%DAEMON-3-SNMPD_TRAP_WARM_START: trap_generate_warm: SNMP trap: warm start
+Feb 22 20:35:07 router1 snmpd[359]:
+%DAEMON-6-SNMPD_THROTTLE_QUEUE_DRAINED: [Warning] trap_throttle_timer_handler: cleared all throttled traps
+Feb 23 07:34:56 router1 snmpd[359]:
+%DAEMON-3-SNMPD_TRAP_WARM_START: trap_generate_warm: SNMP trap: warm start
+Feb 23 07:38:19 router1 snmpd[359]:
+%DAEMON-2-SNMPD_TRAP_COLD_START: trap_generate_cold: SNMP trap: cold start
+%DAEMON-6-SNMPD_THROTTLE_QUEUE_DRAINED: trap_throttle_timer_handler: cleared all throttled traps
+Feb 23 07:34:56 router1 snmpd[359]:
+%DAEMON-3-SNMPD_TRAP_WARM_START: trap_generate_warm: SNMP trap: warm start
+Feb 23 07:38:19 router1 snmpd[359]:
+%DAEMON-2-SNMPD_TRAP_COLD_START: trap_generate_cold: SNMP trap: cold start
+%DAEMON-6-SNMPD_THROTTLE_QUEUE_DRAINED: trap_throttle_timer_handler: cleared all throttled traps
+Feb 23 07:34:56 router1 snmpd[359]:
+%DAEMON-3-SNMPD_TRAP_WARM_START: [Warning] trap_generate_warm: SNMP trap: warm start
+Feb 23 07:38:19 router1 snmpd[359]:
+%DAEMON-2-SNMPD_TRAP_COLD_START: trap_generate_cold: SNMP trap: cold start
+%DAEMON-6-SNMPD_THROTTLE_QUEUE_DRAINED: trap_throttle_timer_handler: cleared all throttled traps
+Feb 23 07:34:56 router1 snmpd[359]:
+%DAEMON-3-SNMPD_TRAP_WARM_START: trap_generate_warm: SNMP trap: warm start
+Feb 23 07:38:19 router1 snmpd[359]:
+%DAEMON-2-SNMPD_TRAP_COLD_START:[Warning] trap_generate_cold: SNMP trap: cold start
+%DAEMON-3-SNMPD_TRAP_WARM_START: trap_generate_warm: SNMP trap: warm start
+Feb 24 20:35:07 router1 snmpd[359]:
+%DAEMON-6-SNMPD_THROTTLE_QUEUE_DRAINED:[Warning] trap_throttle_timer_handler: cleared all throttled traps
+Feb 24 20:35:07 router1 snmpd[359]:
+%DAEMON-6-SNMPD_THROTTLE_QUEUE_DRAINED: [Warning] trap_throttle_timer_handler: cleared all throttled traps
+Feb 24 07:34:56 router1 snmpd[359]:
+%DAEMON-3-SNMPD_TRAP_WARM_START: trap_generate_warm: SNMP trap: warm start
+Feb 24 07:38:19 router1 snmpd[359]:
+%DAEMON-2-SNMPD_TRAP_COLD_START: trap_generate_cold: SNMP trap: cold start
