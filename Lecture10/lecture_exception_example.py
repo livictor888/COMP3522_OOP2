@@ -36,8 +36,8 @@ def main():
     try:
         try:
             my_list.append(2)
-            #my_list.append(3) #throw value exception
-            #my_list.append('4') #throw type exception
+            my_list.append(3) #throw value exception
+            my_list.append('4') #throw type exception
             return #finally block executed even when returning right away
         except ValueError as e:
             print(f"Value Exception caught! Exception: {e.args[0]}")
