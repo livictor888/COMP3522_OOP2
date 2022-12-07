@@ -1,0 +1,4 @@
+{"hello": ["Expression of greeting used by two or more people who meet each other."]}
+{"cool": ["To make cooler or colder.", "Having a slightly low temperature; mildly or pleasantly cold.", "About colors whose relative visual temperatures make them seem cool. Cool colors generally include green, blue-green, blue, blue-violet, and violet.", "To become cooler or colder."]}
+{"dinner": ["A meal that is eaten in the late afternoon or evening daily."]}
+{"help": ["Action given to provide assistance.", "A person or persons who provide assistance with some task.", "To give assistance or aid to.", "To be of use or help.", "To improve the condition of.", "To abstain from doing; always used with a negative."]}

@@ -1,0 +1,17 @@
+Problem area:
+is_unique takes the most time to execute.
+
+
+In line 65, change;
+    if word.lower() == a_word.lower():
+    to
+    if word == a_word.lower():
+
+In line 82, change:
+    if self.is_unique(word, temp_text):
+    to
+    if self.is_unique(word.lower(), temp_text):
+
+
+Result:
+method lower() is only called half as many times

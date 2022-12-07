@@ -1,0 +1,12 @@
+def check_out(self, call_number):
+    library_item = self._retrieve_item_by_call_number(call_number)
+    if library_item.check_availability():  ################### crash here, can't invoke check_avail() on a None object
+        status = self.reduce_item_count(call_number)
+        if status:
+            print("Checkout complete!")
+        else:  ######################################## would never get executed
+            print(f"Could not find item with call number {call_number}"
+                  f". Checkout failed.")
+    else:
+        print(f"No copies left for call number {call_number}"
+              f". Checkout failed.")

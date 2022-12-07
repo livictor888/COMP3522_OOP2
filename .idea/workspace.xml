@@ -2,6 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80805101-e733-4b9b-a337-b77e2147451f" name="Changes" comment="lec15">
+      <change afterPath="$PROJECT_DIR$/Lab4/A00891907.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/bug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/catalogue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/dvd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/journal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/file_extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/file_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/A00891907.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/auction_simulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/callback_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/observer_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/A00891907.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/House of Usher.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/book_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/book_analyzer_profiled.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/A00891907.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/crypto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/inputFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,42 +48,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/Documents/PyCharm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Victor/PycharmProjects/COMP3522/Lab7"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Victor\PycharmProjects\COMP3522\A2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Victor\PycharmProjects\COMP3522\Lecture13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.simple_facade">
-    <configuration name="callable_object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="COMP3522" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture8/callable_object.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.driver (1)">
     <configuration name="callback_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="COMP3522" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +109,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="driver (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COMP3522" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A2/driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COMP3522" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A1/driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="simple_facade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="COMP3522" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,35 +175,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="singleton_example_screens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="COMP3522" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture11/singleton_example_screens.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.driver (1)" />
+        <item itemvalue="Python.driver" />
         <item itemvalue="Python.simple_facade" />
         <item itemvalue="Python.chain_of_responsibility" />
         <item itemvalue="Python.callback_example" />
-        <item itemvalue="Python.callable_object" />
-        <item itemvalue="Python.singleton_example_screens" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +204,11 @@
       <workItem from="1668232009388" duration="915000" />
       <workItem from="1668242167537" duration="1208000" />
       <workItem from="1668470514595" duration="8097000" />
+      <workItem from="1669072654731" duration="686000" />
+      <workItem from="1669142110456" duration="1219000" />
+      <workItem from="1669372289475" duration="74000" />
+      <workItem from="1669667018261" duration="4190000" />
+      <workItem from="1670447110147" duration="348000" />
     </task>
     <task id="LOCAL-00001" summary="lec12">
       <created>1667320039063</created>
@@ -227,16 +262,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="lec15" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/COMP3522$enemy_inheritance.coverage" NAME="enemy_inheritance Coverage Results" MODIFIED="1666078903918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture4" />
-    <SUITE FILE_PATH="coverage/COMP3522$callable_object.coverage" NAME="callable_object Coverage Results" MODIFIED="1667332971109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture8" />
     <SUITE FILE_PATH="coverage/COMP3522$chain_of_responsibility.coverage" NAME="chain_of_responsibility Coverage Results" MODIFIED="1668667306108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 14" />
     <SUITE FILE_PATH="coverage/COMP3522$singleton_example_screens.coverage" NAME="singleton_example_screens Coverage Results" MODIFIED="1667238656349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture11" />
-    <SUITE FILE_PATH="coverage/COMP3522$profile_ackermann.coverage" NAME="profile_ackermann Coverage Results" MODIFIED="1667238097605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture11" />
     <SUITE FILE_PATH="coverage/COMP3522$lecture_exception_example.coverage" NAME="lecture_exception_example Coverage Results" MODIFIED="1667190854627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture10" />
+    <SUITE FILE_PATH="coverage/COMP3522$driver__1_.coverage" NAME="driver (1) Coverage Results" MODIFIED="1669072717044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A2" />
+    <SUITE FILE_PATH="coverage/COMP3522$callback_example.coverage" NAME="callback_example Coverage Results" MODIFIED="1667333309168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture8" />
+    <SUITE FILE_PATH="coverage/COMP3522$driver.coverage" NAME="driver Coverage Results" MODIFIED="1669072692027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A1" />
+    <SUITE FILE_PATH="coverage/COMP3522$scratch_11.coverage" NAME="scratch_11 Coverage Results" MODIFIED="1666115510113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/COMP3522$enemy_inheritance.coverage" NAME="enemy_inheritance Coverage Results" MODIFIED="1666078903918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture4" />
+    <SUITE FILE_PATH="coverage/COMP3522$callable_object.coverage" NAME="callable_object Coverage Results" MODIFIED="1667332971109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture8" />
+    <SUITE FILE_PATH="coverage/COMP3522$profile_ackermann.coverage" NAME="profile_ackermann Coverage Results" MODIFIED="1667238097605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture11" />
     <SUITE FILE_PATH="coverage/COMP3522$complex_multiple_inheritance.coverage" NAME="complex_multiple_inheritance Coverage Results" MODIFIED="1667191968110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture10" />
     <SUITE FILE_PATH="coverage/COMP3522$scratch_5.coverage" NAME="scratch_5 Coverage Results" MODIFIED="1664834177006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
-    <SUITE FILE_PATH="coverage/COMP3522$callback_example.coverage" NAME="callback_example Coverage Results" MODIFIED="1667333309168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture8" />
     <SUITE FILE_PATH="coverage/COMP3522$clothing_enum.coverage" NAME="clothing_enum Coverage Results" MODIFIED="1667191490932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture10" />
-    <SUITE FILE_PATH="coverage/COMP3522$scratch_11.coverage" NAME="scratch_11 Coverage Results" MODIFIED="1666115510113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </project>
