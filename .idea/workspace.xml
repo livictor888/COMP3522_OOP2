@@ -1,35 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80805101-e733-4b9b-a337-b77e2147451f" name="Changes" comment="lec15">
-      <change afterPath="$PROJECT_DIR$/Lab4/A00891907.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/bug.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/catalogue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/dvd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/journal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/file_extensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/file_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/A00891907.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/auction_simulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/callback_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/observer_pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/A00891907.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/House of Usher.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/book_analyzer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/book_analyzer_profiled.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8/A00891907.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8/crypto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8/inputFile.txt" afterDir="false" />
+    <list default="true" id="80805101-e733-4b9b-a337-b77e2147451f" name="Changes" comment="Labs + a3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/asteroid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2 (class and datetime)/asteroid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2 (class and datetime)/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Icon_" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3 (objects)/Icon_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3 (objects)/book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/library.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3 (objects)/library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/A00891907.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4 (inheritance)/A00891907.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4 (inheritance)/book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/bug.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4 (inheritance)/bug.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4 (inheritance)/catalogue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/dvd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4 (inheritance)/dvd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/item.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4 (inheritance)/item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/journal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4 (inheritance)/journal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/library.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4 (inheritance)/library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5 (file handling)/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5 (file handling)/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5 (file handling)/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/file_extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5 (file handling)/file_extensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/file_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5 (file handling)/file_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5 (file handling)/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5 (file handling)/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/A00891907.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6 (observer and callbacks)/A00891907.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/auction_simulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6 (observer and callbacks)/auction_simulator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/callback_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6 (observer and callbacks)/callback_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/observer_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6 (observer and callbacks)/observer_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/A00891907.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7 (performance and profiling)/A00891907.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/House of Usher.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7 (performance and profiling)/House of Usher.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/book_analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7 (performance and profiling)/book_analyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/book_analyzer_profiled.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7 (performance and profiling)/book_analyzer_profiled.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7 (performance and profiling)/report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/A00891907.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8 (chain of responsibility and error handing)/A00891907.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/crypto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8 (chain of responsibility and error handing)/crypto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/inputFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8 (chain of responsibility and error handing)/inputFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/character_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/character_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/clothing_enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/clothing_enum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/complex_multiple_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/complex_multiple_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/file_handling_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/file_handling_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/json_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/json_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/lambda_functions_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/lambda_functions_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/lecture_exception_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/lecture_exception_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/sample2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/sample2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/sample3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/sample3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10 (post midterm)/test_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +75,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Victor\PycharmProjects\COMP3522\A2" />
+      <recent name="C:\Users\Victor\PycharmProjects\COMP3522\Lab7" />
+      <recent name="C:\Users\Victor\PycharmProjects\COMP3522\Lab8" />
+      <recent name="C:\Users\Victor\PycharmProjects\COMP3522\Lab5" />
+      <recent name="C:\Users\Victor\PycharmProjects\COMP3522\Lab4" />
+      <recent name="C:\Users\Victor\PycharmProjects\COMP3522\Lab6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Victor\PycharmProjects\COMP3522\Lecture13" />
@@ -208,7 +229,7 @@
       <workItem from="1669142110456" duration="1219000" />
       <workItem from="1669372289475" duration="74000" />
       <workItem from="1669667018261" duration="4190000" />
-      <workItem from="1670447110147" duration="348000" />
+      <workItem from="1670447110147" duration="2148000" />
     </task>
     <task id="LOCAL-00001" summary="lec12">
       <created>1667320039063</created>
@@ -238,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667978468283</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Labs + a3">
+      <created>1670447518202</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670447518202</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +287,8 @@
     <MESSAGE value="lec12" />
     <MESSAGE value="lec13" />
     <MESSAGE value="lec15" />
-    <option name="LAST_COMMIT_MESSAGE" value="lec15" />
+    <MESSAGE value="Labs + a3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Labs + a3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/COMP3522$chain_of_responsibility.coverage" NAME="chain_of_responsibility Coverage Results" MODIFIED="1668667306108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 14" />
