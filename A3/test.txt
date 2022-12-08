@@ -1,0 +1,1225 @@
+
+------- POKEMON INFO: -------
+Pokemon Name: pikachu
+Pokemon ID: 25
+Height: 4 decimetres
+Weight: 60 hectograms
+Types: ['electric']
+Stats: 
+-------- STATS INFO: --------
+Stats Name: hp
+Stats ID: 1
+Is Battle Only: False
+-----------------------------
+
+-------- STATS INFO: --------
+Stats Name: attack
+Stats ID: 2
+Is Battle Only: False
+-----------------------------
+
+-------- STATS INFO: --------
+Stats Name: defense
+Stats ID: 3
+Is Battle Only: False
+-----------------------------
+
+-------- STATS INFO: --------
+Stats Name: special-attack
+Stats ID: 4
+Is Battle Only: False
+-----------------------------
+
+-------- STATS INFO: --------
+Stats Name: special-defense
+Stats ID: 5
+Is Battle Only: False
+-----------------------------
+
+-------- STATS INFO: --------
+Stats Name: speed
+Stats ID: 6
+Is Battle Only: False
+-----------------------------
+
+Abilities: 
+------- ABILITY INFO: -------
+Ability Name: static
+Ability ID: 9
+Generation: generation-iii
+Effect: Whenever a move makes contact with this Pokémon, the move's user has a 30% chance of being paralyzed.
+
+Pokémon that are immune to electric-type moves can still be paralyzed by this ability.
+
+Overworld: If the lead Pokémon has this ability, there is a 50% chance that encounters will be with an electric Pokémon, if applicable.
+Effect (Short): Has a 30% chance of paralyzing attacking Pokémon on contact.
+Pokemon: ['pikachu', 'raichu', 'voltorb', 'electrode', 'electabuzz', 'zapdos', 'pichu', 'mareep', 'flaaffy', 'ampharos', 'elekid', 'electrike', 'manectric', 'emolga', 'stunfisk', 'toxel', 'arctozolt', 'pikachu-rock-star', 'pikachu-belle', 'pikachu-pop-star', 'pikachu-phd', 'pikachu-libre', 'pikachu-cosplay', 'pikachu-original-cap', 'pikachu-hoenn-cap', 'pikachu-sinnoh-cap', 'pikachu-unova-cap', 'pikachu-kalos-cap', 'pikachu-alola-cap', 'pikachu-partner-cap', 'pikachu-starter', 'pikachu-world-cap', 'pikachu-gmax', 'voltorb-hisui', 'electrode-hisui']
+-----------------------------
+
+------- ABILITY INFO: -------
+Ability Name: lightning-rod
+Ability ID: 31
+Generation: generation-iii
+Effect: All other Pokémon's single-target electric-type moves are redirected to this Pokémon if it is an eligible target.  Other Pokémon's Electric moves raise this Pokémon's Special Attack one stage, negating any other effect on it, and cannot miss it.
+
+If the move's intended target also has this ability, the move is not redirected.  When multiple Pokémon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pokémon.  follow me takes precedence over this ability.
+
+If the Pokémon is a ground-type and thus immune to Electric moves, its immunity prevents the Special Attack boost.
+Effect (Short): Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.
+Pokemon: ['pikachu', 'raichu', 'cubone', 'marowak', 'rhyhorn', 'rhydon', 'goldeen', 'seaking', 'pichu', 'electrike', 'manectric', 'plusle', 'rhyperior', 'blitzle', 'zebstrika', 'togedemaru', 'pincurchin', 'sceptile-mega', 'pikachu-rock-star', 'pikachu-belle', 'pikachu-pop-star', 'pikachu-phd', 'pikachu-libre', 'pikachu-cosplay', 'pikachu-original-cap', 'pikachu-hoenn-cap', 'pikachu-sinnoh-cap', 'pikachu-unova-cap', 'pikachu-kalos-cap', 'pikachu-alola-cap', 'marowak-alola', 'pikachu-partner-cap', 'marowak-totem', 'togedemaru-totem', 'pikachu-starter', 'pikachu-world-cap', 'pikachu-gmax']
+-----------------------------
+
+Moves: 
+-------- MOVE INFO: --------
+Move Name: mega-punch
+Move ID: 5
+Generation: generation-i
+Accuracy: 85
+PP: 20
+Power: 80
+Type: normal
+Damage Class: physical
+Effect (Short): Inflicts regular damage with no additional effect.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: pay-day
+Move ID: 6
+Generation: generation-i
+Accuracy: 100
+PP: 20
+Power: 40
+Type: normal
+Damage Class: physical
+Effect (Short): Scatters money on the ground worth five times the user's level.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: thunder-punch
+Move ID: 9
+Generation: generation-i
+Accuracy: 100
+PP: 15
+Power: 75
+Type: electric
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: slam
+Move ID: 21
+Generation: generation-i
+Accuracy: 75
+PP: 20
+Power: 80
+Type: normal
+Damage Class: physical
+Effect (Short): Inflicts regular damage with no additional effect.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: double-kick
+Move ID: 24
+Generation: generation-i
+Accuracy: 100
+PP: 30
+Power: 30
+Type: fighting
+Damage Class: physical
+Effect (Short): Hits twice in one turn.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: mega-kick
+Move ID: 25
+Generation: generation-i
+Accuracy: 75
+PP: 5
+Power: 120
+Type: normal
+Damage Class: physical
+Effect (Short): Inflicts regular damage with no additional effect.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: headbutt
+Move ID: 29
+Generation: generation-i
+Accuracy: 100
+PP: 15
+Power: 70
+Type: normal
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to make the target flinch.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: body-slam
+Move ID: 34
+Generation: generation-i
+Accuracy: 100
+PP: 15
+Power: 85
+Type: normal
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: take-down
+Move ID: 36
+Generation: generation-i
+Accuracy: 85
+PP: 20
+Power: 90
+Type: normal
+Damage Class: physical
+Effect (Short): User receives 1/4 the damage it inflicts in recoil.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: double-edge
+Move ID: 38
+Generation: generation-i
+Accuracy: 100
+PP: 15
+Power: 120
+Type: normal
+Damage Class: physical
+Effect (Short): User receives 1/3 the damage inflicted in recoil.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: tail-whip
+Move ID: 39
+Generation: generation-i
+Accuracy: 100
+PP: 30
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Lowers the target's Defense by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: growl
+Move ID: 45
+Generation: generation-i
+Accuracy: 100
+PP: 40
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Lowers the target's Attack by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: surf
+Move ID: 57
+Generation: generation-i
+Accuracy: 100
+PP: 15
+Power: 90
+Type: water
+Damage Class: special
+Effect (Short): Inflicts regular damage and can hit Dive users.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: submission
+Move ID: 66
+Generation: generation-i
+Accuracy: 80
+PP: 20
+Power: 80
+Type: fighting
+Damage Class: physical
+Effect (Short): User receives 1/4 the damage it inflicts in recoil.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: counter
+Move ID: 68
+Generation: generation-i
+Accuracy: 100
+PP: 20
+Power: None
+Type: fighting
+Damage Class: physical
+Effect (Short): Inflicts twice the damage the user received from the last physical hit it took.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: seismic-toss
+Move ID: 69
+Generation: generation-i
+Accuracy: 100
+PP: 20
+Power: None
+Type: fighting
+Damage Class: physical
+Effect (Short): Inflicts damage equal to the user's level.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: strength
+Move ID: 70
+Generation: generation-i
+Accuracy: 100
+PP: 15
+Power: 80
+Type: normal
+Damage Class: physical
+Effect (Short): Inflicts regular damage with no additional effect.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: thunder-shock
+Move ID: 84
+Generation: generation-i
+Accuracy: 100
+PP: 30
+Power: 40
+Type: electric
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: thunderbolt
+Move ID: 85
+Generation: generation-i
+Accuracy: 100
+PP: 15
+Power: 90
+Type: electric
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: thunder-wave
+Move ID: 86
+Generation: generation-i
+Accuracy: 90
+PP: 20
+Power: None
+Type: electric
+Damage Class: status
+Effect (Short): Paralyzes the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: thunder
+Move ID: 87
+Generation: generation-i
+Accuracy: 70
+PP: 10
+Power: 110
+Type: electric
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: dig
+Move ID: 91
+Generation: generation-i
+Accuracy: 100
+PP: 10
+Power: 80
+Type: ground
+Damage Class: physical
+Effect (Short): User digs underground, dodging all attacks, and hits next turn.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: toxic
+Move ID: 92
+Generation: generation-i
+Accuracy: 90
+PP: 10
+Power: None
+Type: poison
+Damage Class: status
+Effect (Short): Badly poisons the target, inflicting more damage every turn.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: agility
+Move ID: 97
+Generation: generation-i
+Accuracy: None
+PP: 30
+Power: None
+Type: psychic
+Damage Class: status
+Effect (Short): Raises the user's Speed by two stages.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: quick-attack
+Move ID: 98
+Generation: generation-i
+Accuracy: 100
+PP: 30
+Power: 40
+Type: normal
+Damage Class: physical
+Effect (Short): Inflicts regular damage with no additional effect.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: rage
+Move ID: 99
+Generation: generation-i
+Accuracy: 100
+PP: 20
+Power: 20
+Type: normal
+Damage Class: physical
+Effect (Short): If the user is hit after using this move, its Attack rises by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: mimic
+Move ID: 102
+Generation: generation-i
+Accuracy: None
+PP: 10
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Copies the target's last used move.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: double-team
+Move ID: 104
+Generation: generation-i
+Accuracy: None
+PP: 15
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Raises the user's evasion by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: defense-curl
+Move ID: 111
+Generation: generation-i
+Accuracy: None
+PP: 40
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Raises user's Defense by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: light-screen
+Move ID: 113
+Generation: generation-i
+Accuracy: None
+PP: 30
+Power: None
+Type: psychic
+Damage Class: status
+Effect (Short): Reduces damage from special attacks by 50% for five turns.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: reflect
+Move ID: 115
+Generation: generation-i
+Accuracy: None
+PP: 20
+Power: None
+Type: psychic
+Damage Class: status
+Effect (Short): Reduces damage from physical attacks by half.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: bide
+Move ID: 117
+Generation: generation-i
+Accuracy: None
+PP: 10
+Power: None
+Type: normal
+Damage Class: physical
+Effect (Short): User waits for two turns, then hits back for twice the damage it took.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: swift
+Move ID: 129
+Generation: generation-i
+Accuracy: None
+PP: 20
+Power: 60
+Type: normal
+Damage Class: special
+Effect (Short): Never misses.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: skull-bash
+Move ID: 130
+Generation: generation-i
+Accuracy: 100
+PP: 10
+Power: 130
+Type: normal
+Damage Class: physical
+Effect (Short): Raises the user's Defense by one stage.  User charges for one turn before attacking.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: flash
+Move ID: 148
+Generation: generation-i
+Accuracy: 100
+PP: 20
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Lowers the target's accuracy by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: rest
+Move ID: 156
+Generation: generation-i
+Accuracy: None
+PP: 10
+Power: None
+Type: psychic
+Damage Class: status
+Effect (Short): User sleeps for two turns, completely healing itself.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: substitute
+Move ID: 164
+Generation: generation-i
+Accuracy: None
+PP: 10
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: thief
+Move ID: 168
+Generation: generation-ii
+Accuracy: 100
+PP: 25
+Power: 60
+Type: dark
+Damage Class: physical
+Effect (Short): Takes the target's item.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: snore
+Move ID: 173
+Generation: generation-ii
+Accuracy: 100
+PP: 15
+Power: 50
+Type: normal
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to make the target flinch.  Only works if the user is sleeping.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: curse
+Move ID: 174
+Generation: generation-ii
+Accuracy: None
+PP: 10
+Power: None
+Type: ghost
+Damage Class: status
+Effect (Short): Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: reversal
+Move ID: 179
+Generation: generation-ii
+Accuracy: 100
+PP: 15
+Power: None
+Type: fighting
+Damage Class: physical
+Effect (Short): Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: protect
+Move ID: 182
+Generation: generation-ii
+Accuracy: None
+PP: 10
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Prevents any moves from hitting the user this turn.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: sweet-kiss
+Move ID: 186
+Generation: generation-ii
+Accuracy: 75
+PP: 10
+Power: None
+Type: fairy
+Damage Class: status
+Effect (Short): Confuses the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: mud-slap
+Move ID: 189
+Generation: generation-ii
+Accuracy: 100
+PP: 10
+Power: 20
+Type: ground
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to lower the target's accuracy by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: zap-cannon
+Move ID: 192
+Generation: generation-ii
+Accuracy: 50
+PP: 5
+Power: 120
+Type: electric
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: detect
+Move ID: 197
+Generation: generation-ii
+Accuracy: None
+PP: 5
+Power: None
+Type: fighting
+Damage Class: status
+Effect (Short): Prevents any moves from hitting the user this turn.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: endure
+Move ID: 203
+Generation: generation-ii
+Accuracy: None
+PP: 10
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Prevents the user's HP from lowering below 1 this turn.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: charm
+Move ID: 204
+Generation: generation-ii
+Accuracy: 100
+PP: 20
+Power: None
+Type: fairy
+Damage Class: status
+Effect (Short): Lowers the target's Attack by two stages.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: rollout
+Move ID: 205
+Generation: generation-ii
+Accuracy: 90
+PP: 20
+Power: 30
+Type: rock
+Damage Class: physical
+Effect (Short): Power doubles every turn this move is used in succession after the first, resetting after five turns.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: swagger
+Move ID: 207
+Generation: generation-ii
+Accuracy: 85
+PP: 15
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Raises the target's Attack by two stages and confuses the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: spark
+Move ID: 209
+Generation: generation-ii
+Accuracy: 100
+PP: 20
+Power: 65
+Type: electric
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: attract
+Move ID: 213
+Generation: generation-ii
+Accuracy: 100
+PP: 15
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: sleep-talk
+Move ID: 214
+Generation: generation-ii
+Accuracy: None
+PP: 10
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Randomly uses one of the user's other three moves.  Only works if the user is sleeping.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: return
+Move ID: 216
+Generation: generation-ii
+Accuracy: 100
+PP: 20
+Power: None
+Type: normal
+Damage Class: physical
+Effect (Short): Power increases with happiness, up to a maximum of 102.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: frustration
+Move ID: 218
+Generation: generation-ii
+Accuracy: 100
+PP: 20
+Power: None
+Type: normal
+Damage Class: physical
+Effect (Short): Power increases as happiness decreases, up to a maximum of 102.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: dynamic-punch
+Move ID: 223
+Generation: generation-ii
+Accuracy: 50
+PP: 5
+Power: 100
+Type: fighting
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to confuse the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: encore
+Move ID: 227
+Generation: generation-ii
+Accuracy: 100
+PP: 5
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Forces the target to repeat its last used move every turn for 2 to 6 turns.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: iron-tail
+Move ID: 231
+Generation: generation-ii
+Accuracy: 75
+PP: 15
+Power: 100
+Type: steel
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to lower the target's Defense by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: hidden-power
+Move ID: 237
+Generation: generation-ii
+Accuracy: 100
+PP: 15
+Power: 60
+Type: normal
+Damage Class: special
+Effect (Short): Power and type depend upon user's IVs.  Power can range from 30 to 70.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: rain-dance
+Move ID: 240
+Generation: generation-ii
+Accuracy: None
+PP: 5
+Power: None
+Type: water
+Damage Class: status
+Effect (Short): Changes the weather to rain for five turns.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: rock-smash
+Move ID: 249
+Generation: generation-ii
+Accuracy: 100
+PP: 15
+Power: 40
+Type: fighting
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to lower the target's Defense by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: uproar
+Move ID: 253
+Generation: generation-iii
+Accuracy: 100
+PP: 10
+Power: 90
+Type: normal
+Damage Class: special
+Effect (Short): Forced to use this move for several turns.  Pokémon cannot fall asleep in that time.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: facade
+Move ID: 263
+Generation: generation-iii
+Accuracy: 100
+PP: 20
+Power: 70
+Type: normal
+Damage Class: physical
+Effect (Short): Power doubles if user is burned, paralyzed, or poisoned.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: focus-punch
+Move ID: 264
+Generation: generation-iii
+Accuracy: 100
+PP: 20
+Power: 150
+Type: fighting
+Damage Class: physical
+Effect (Short): If the user takes damage before attacking, the attack is canceled.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: helping-hand
+Move ID: 270
+Generation: generation-iii
+Accuracy: None
+PP: 20
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Ally's next move inflicts half more damage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: brick-break
+Move ID: 280
+Generation: generation-iii
+Accuracy: 100
+PP: 15
+Power: 75
+Type: fighting
+Damage Class: physical
+Effect (Short): Destroys Reflect and Light Screen.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: knock-off
+Move ID: 282
+Generation: generation-iii
+Accuracy: 100
+PP: 20
+Power: 65
+Type: dark
+Damage Class: physical
+Effect (Short): Target drops its held item.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: secret-power
+Move ID: 290
+Generation: generation-iii
+Accuracy: 100
+PP: 20
+Power: 70
+Type: normal
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to inflict a status effect which depends upon the terrain.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: signal-beam
+Move ID: 324
+Generation: generation-iii
+Accuracy: 100
+PP: 15
+Power: 75
+Type: bug
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to confuse the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: covet
+Move ID: 343
+Generation: generation-iii
+Accuracy: 100
+PP: 25
+Power: 60
+Type: normal
+Damage Class: physical
+Effect (Short): Takes the target's item.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: volt-tackle
+Move ID: 344
+Generation: generation-iii
+Accuracy: 100
+PP: 15
+Power: 120
+Type: electric
+Damage Class: physical
+Effect (Short): User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: calm-mind
+Move ID: 347
+Generation: generation-iii
+Accuracy: None
+PP: 20
+Power: None
+Type: psychic
+Damage Class: status
+Effect (Short): Raises the user's Special Attack and Special Defense by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: shock-wave
+Move ID: 351
+Generation: generation-iii
+Accuracy: None
+PP: 20
+Power: 60
+Type: electric
+Damage Class: special
+Effect (Short): Never misses.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: natural-gift
+Move ID: 363
+Generation: generation-iv
+Accuracy: 100
+PP: 15
+Power: None
+Type: normal
+Damage Class: physical
+Effect (Short): Power and type depend on the held berry.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: feint
+Move ID: 364
+Generation: generation-iv
+Accuracy: 100
+PP: 10
+Power: 30
+Type: normal
+Damage Class: physical
+Effect (Short): Hits through Protect and Detect.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: fling
+Move ID: 374
+Generation: generation-iv
+Accuracy: 100
+PP: 10
+Power: None
+Type: dark
+Damage Class: physical
+Effect (Short): Throws held item at the target; power depends on the item.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: magnet-rise
+Move ID: 393
+Generation: generation-iv
+Accuracy: None
+PP: 10
+Power: None
+Type: electric
+Damage Class: status
+Effect (Short): User is immune to Ground moves and effects for five turns.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: nasty-plot
+Move ID: 417
+Generation: generation-iv
+Accuracy: None
+PP: 20
+Power: None
+Type: dark
+Damage Class: status
+Effect (Short): Raises the user's Special Attack by two stages.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: discharge
+Move ID: 435
+Generation: generation-iv
+Accuracy: 100
+PP: 15
+Power: 80
+Type: electric
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: captivate
+Move ID: 445
+Generation: generation-iv
+Accuracy: 100
+PP: 20
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Lowers the target's Special Attack by two stages if it's the opposite gender.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: grass-knot
+Move ID: 447
+Generation: generation-iv
+Accuracy: 100
+PP: 20
+Power: None
+Type: grass
+Damage Class: special
+Effect (Short): Inflicts more damage to heavier targets, with a maximum of 120 power.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: charge-beam
+Move ID: 451
+Generation: generation-iv
+Accuracy: 90
+PP: 10
+Power: 50
+Type: electric
+Damage Class: special
+Effect (Short): Has a $effect_chance% chance to raise the user's Special Attack by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: electro-ball
+Move ID: 486
+Generation: generation-v
+Accuracy: 100
+PP: 10
+Power: None
+Type: electric
+Damage Class: special
+Effect (Short): Power is higher when the user has greater Speed than the target, up to a maximum of 150.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: round
+Move ID: 496
+Generation: generation-v
+Accuracy: 100
+PP: 15
+Power: 60
+Type: normal
+Damage Class: special
+Effect (Short): Has double power if it's used more than once per turn.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: echoed-voice
+Move ID: 497
+Generation: generation-v
+Accuracy: 100
+PP: 15
+Power: 40
+Type: normal
+Damage Class: special
+Effect (Short): Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: volt-switch
+Move ID: 521
+Generation: generation-v
+Accuracy: 100
+PP: 20
+Power: 70
+Type: electric
+Damage Class: special
+Effect (Short): User must switch out after attacking.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: electroweb
+Move ID: 527
+Generation: generation-v
+Accuracy: 95
+PP: 15
+Power: 55
+Type: electric
+Damage Class: special
+Effect (Short): Lowers the target's Speed by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: wild-charge
+Move ID: 528
+Generation: generation-v
+Accuracy: 100
+PP: 15
+Power: 90
+Type: electric
+Damage Class: physical
+Effect (Short): User receives 1/4 the damage it inflicts in recoil.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: draining-kiss
+Move ID: 577
+Generation: generation-vi
+Accuracy: 100
+PP: 10
+Power: 50
+Type: fairy
+Damage Class: special
+Effect (Short): Drains 75% of the damage inflicted to heal the user.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: play-rough
+Move ID: 583
+Generation: generation-vi
+Accuracy: 90
+PP: 10
+Power: 90
+Type: fairy
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to lower the target's Attack by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: play-nice
+Move ID: 589
+Generation: generation-vi
+Accuracy: None
+PP: 20
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Lowers the target's Attack by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: confide
+Move ID: 590
+Generation: generation-vi
+Accuracy: None
+PP: 20
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Lowers the target's Special Attack by one stage.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: electric-terrain
+Move ID: 604
+Generation: generation-vi
+Accuracy: None
+PP: 10
+Power: None
+Type: electric
+Damage Class: status
+Effect (Short): For five turns, prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: nuzzle
+Move ID: 609
+Generation: generation-vi
+Accuracy: 100
+PP: 20
+Power: 20
+Type: electric
+Damage Class: physical
+Effect (Short): Has a $effect_chance% chance to paralyze the target.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: laser-focus
+Move ID: 673
+Generation: generation-vii
+Accuracy: None
+PP: 30
+Power: None
+Type: normal
+Damage Class: status
+Effect (Short): Guarantees a critical hit with the user's next move.
+-----------------------------
+
+-------- MOVE INFO: --------
+Move Name: rising-voltage
+Move ID: 804
+Generation: generation-viii
+Accuracy: 100
+PP: 20
+Power: 70
+Type: electric
+Damage Class: special
+Effect (Short): Inflicts regular damage with no additional effect.
+-----------------------------
+
+-----------------------------
